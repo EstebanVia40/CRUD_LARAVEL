@@ -1,0 +1,43 @@
+/* Estilos para los encabezados h1 */
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Estilos para las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para los párrafos */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+/* Cambio de tipo de letra */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Cambio de color de letra para todo el documento */
+body {
+    color: #333;
+}
+
+/* Estilos para un enlace */
+a {
+    color: #007bff; /* Color de enlace predeterminado en azul */
+    text-decoration: none; /* Sin subrayado en los enlaces */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayado al pasar el mouse sobre el enlace */
+}
